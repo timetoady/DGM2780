@@ -1,6 +1,8 @@
 # DGM-2780 Assignment 1 Marketing Website
 
-Cozy Corner Book Store
+Cozy Corner Book Store.
+
+Basic site setup, complete with overlay menu that works (except for the links) and basic responsive design.
 
 ### Final URL
 
