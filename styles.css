@@ -20,7 +20,7 @@ header {
 header h2 {
     margin: 0;
     font-size: 1.3rem; 
-    padding: .7rem .8rem .5rem 0.1rem;
+    padding: .85rem .8rem .5rem 0.1rem;
 }
 
 #logomark {
@@ -36,6 +36,12 @@ header h2 {
 #logoDiv img{
     width: 100%;
 }
+
+#menu {
+    font-size: 1rem;
+    padding: 1.1rem 1.3rem; 
+}
+
 
  main {
     margin: 0;
@@ -144,8 +150,8 @@ footer p {
   /* Position the close button (top right corner) */
   .overlay .closebtn {
     position: absolute;
-    top: -10px;
-    right: 20px;
+    top: -5px;
+    right: 25px;
     font-size: 60px;
 
     padding-top: 0;
@@ -186,23 +192,25 @@ footer p {
     header h2 {
         margin: 0;
         font-size: 1.5rem; 
-        padding: 1rem 1.5rem 1rem 0.2rem;
+        padding: 1.4rem 3rem 3rem 0.2rem;
     }
 
     .overlay .closebtn {
         position: absolute;
-        top: 0px;
-        right: 34px;
+        top: 10px;
+        right: 75px;
         font-size: 60px;
         padding-top: 0;
       }
 
      #logoDiv {
         width: 65px;
-        padding-left: .5rem;
-        padding-top: .4rem;
+        padding-left: 3rem;
+        padding-top: .8rem;
     }
-
+#menu{
+    padding: 1.8rem 4rem 
+}
   }
 
   /* Things to do in media query */
