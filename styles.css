@@ -29,8 +29,8 @@ header h2 {
 
 #logoDiv {
     width: 50px;
-    padding-left: .5rem;
-    padding-top: .4rem;
+    padding-left: .6rem;
+    padding-top: .6rem;
 }
 
 #logoDiv img{
@@ -185,8 +185,8 @@ footer p {
     }
     header h2 {
         margin: 0;
-        font-size: 1.3rem; 
-        padding: 1rem 1.5rem;
+        font-size: 1.5rem; 
+        padding: 1rem 1.5rem 1rem 0.2rem;
     }
 
     .overlay .closebtn {
@@ -196,6 +196,13 @@ footer p {
         font-size: 60px;
         padding-top: 0;
       }
+
+     #logoDiv {
+        width: 65px;
+        padding-left: .5rem;
+        padding-top: .4rem;
+    }
+
   }
 
   /* Things to do in media query */
